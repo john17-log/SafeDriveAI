@@ -1,4 +1,5 @@
-# SafeDriveAI
+## Summary
+SafeDriveAI
 the project is about ai detecting if a driver has taken alcohol 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 {1] Reduced accidents and fatalities:
